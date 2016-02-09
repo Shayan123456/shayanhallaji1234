@@ -341,7 +341,7 @@ You Can user both "!" & "/" for them
 
 ]],
     help_text = [[
-bots Help for mods : Plugins
+bots Help for mods : Plugins Shayan123
 
 Banhammer : 
 
